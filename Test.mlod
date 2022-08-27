@@ -1,0 +1,26 @@
+![T218,I-5]
+
+[?Cm][C'D#'G]
+[?BM][B<'D#'F#]
+
+{
+	O4
+	[?M1][NS G#< NF Cm NS G#<- NF Cm NS G#<-, NF Cm NS G#<- NFH Cm- NS G#< NF Cm]
+	[?M2][NS F#< NF BM NS F#<- NF BM NS F#<-, NF BM NS F#<- NFH BM- NS F#< NF BM]
+
+	:
+		M1,M1 (0-4)
+		M2,M2 (4-8)
+		M1,M1 (8-12)
+		M2 (12-14)
+		NS F#< NF BM NS F#<- NF BM NS F#<- (14-15)
+		NF BM NS F#<- NFH BM- NS F#< G< (15-16)
+	; (0-32)
+
+}
+
+\{
+	O3
+	~++++++
+
+}
